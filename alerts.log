@@ -1,0 +1,9 @@
+2026-05-04 13:52:38 - [ALERT] Suspicious traffic detected: Bot. Destination Port: 21.
+2026-05-04 13:52:39 - [ALERT] Suspicious traffic detected: Bot. Destination Port: 80.
+2026-05-04 13:52:39 - [ALERT] Suspicious traffic detected: DDoS. Destination Port: 21.
+2026-05-04 13:52:40 - [ALERT] Suspicious traffic detected: PortScan. Destination Port: 22.
+2026-05-04 13:52:40 - [ALERT] Suspicious traffic detected: Web Attack. Destination Port: 8080.
+2026-05-04 13:52:41 - [ALERT] Suspicious traffic detected: DDoS. Destination Port: 8080.
+2026-05-04 13:52:42 - [ALERT] Suspicious traffic detected: Bot. Destination Port: 443.
+2026-05-04 13:52:42 - [ALERT] Suspicious traffic detected: DDoS. Destination Port: 22.
+2026-05-04 13:52:43 - [ALERT] Suspicious traffic detected: PortScan. Destination Port: 8080.
